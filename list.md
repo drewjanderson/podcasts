@@ -2,7 +2,6 @@
 
 * RunAs Radio
 * Arrested Devops
-* .NET Rocks!
 * Brakeing Down Security Podcast
 * Buffer Overflow
 * How I Built This with Guy Raz
